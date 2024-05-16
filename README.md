@@ -36,16 +36,16 @@ O cliente REST permite realizar requisições HTTP para os endpoints da API, com
 - **DELETE**: Excluir um registro da tabela.
 
 ### GET
-![GET](Imagem/get.png)
+![GET](Imagem/Get.png)
 
 ### POST
-![POST](Imagem/insert.png)
+![POST](Imagem/Insert.png)
 
 ### PUT
-![PUT](Imagem/update.png)
+![PUT](Imagem/Update.png)
 
 ### DELETE
-![DELETE](Imagem/delete.png)
+![DELETE](Imagem/Delete.png)
 
 Cada requisição é acompanhada de um corpo em formato JSON, contendo os dados a serem manipulados no banco de dados.
 
