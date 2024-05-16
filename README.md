@@ -26,7 +26,7 @@ O projeto está estruturado da seguinte forma:
 
 Para demonstrar o funcionamento da API CRUD, utilizamos um cliente REST, como exemplificado na imagem abaixo:
 
-![Cliente REST](Imagem/rest_client.png)
+![Cliente REST]
 
 O cliente REST permite realizar requisições HTTP para os endpoints da API, como:
 
